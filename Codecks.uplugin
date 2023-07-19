@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "1.0",
+	"FriendlyName": "Codecks",
+	"Description": "The official Codecks plugin.",
+	"Category": "Other",
+	"CreatedBy": "Maschinen-Mensch",
+	"CreatedByURL": "https://www.maschinen-mensch.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Codecks",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
